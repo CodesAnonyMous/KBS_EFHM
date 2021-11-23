@@ -1,0 +1,9 @@
+pro_data/raw
+pro_data/__pycache__
+__pycache__
+config/__pycache__
+data/3dprint
+data/Bioinformatics
+data/History
+data/AI
+data/__pycache__
